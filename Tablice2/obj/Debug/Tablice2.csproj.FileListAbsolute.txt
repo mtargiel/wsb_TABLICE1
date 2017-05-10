@@ -1,0 +1,6 @@
+c:\users\michal\documents\visual studio 2017\Projects\Tablice2\Tablice2\bin\Debug\Tablice2.exe.config
+c:\users\michal\documents\visual studio 2017\Projects\Tablice2\Tablice2\bin\Debug\Tablice2.exe
+c:\users\michal\documents\visual studio 2017\Projects\Tablice2\Tablice2\bin\Debug\Tablice2.pdb
+c:\users\michal\documents\visual studio 2017\Projects\Tablice2\Tablice2\obj\Debug\Tablice2.csprojResolveAssemblyReference.cache
+c:\users\michal\documents\visual studio 2017\Projects\Tablice2\Tablice2\obj\Debug\Tablice2.exe
+c:\users\michal\documents\visual studio 2017\Projects\Tablice2\Tablice2\obj\Debug\Tablice2.pdb
